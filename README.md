@@ -1,7 +1,4 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/designtechie/designtechie/main/assets/banner.png" alt="DesignTechie Banner" width="100%" />
-</div>
+
 
 <!-- Headline -->
 <h1 align="center">Hey 👋 I'm Krishna Chaitanya</h1>
